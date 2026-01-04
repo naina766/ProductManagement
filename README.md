@@ -63,8 +63,6 @@ src/
 └─ main.jsx
 ```
 
----
-
 ## Installation & Setup
 
 1. **Clone the repository**
@@ -92,6 +90,8 @@ yarn dev
 ```
 
 4. Open your browser at http://localhost:5173
+
+---
 
 ## Usage
 
@@ -137,9 +137,7 @@ yarn dev
 
 ![Add Product](screenshots/add-product.png)
 
-### Edit Product Modal
-
-![Edit Product](screenshots/edit-product.png)
+---
 
 ## Image Handling
 
@@ -168,6 +166,6 @@ yarn dev
 
 ## Author
 
-- **Your Name** – Student / Developer  
-- Email: your.email@example.com  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- **Naina** 
+- Email: naina2311081@gmail.com
+- GitHub: [github.com/naina766](https://github.com/naina766)
